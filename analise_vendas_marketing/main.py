@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+
 def calcular_covariancia(x, y):
     med_x = np.mean(x)
     med_y = np.mean(y)
